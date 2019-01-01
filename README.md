@@ -16,3 +16,4 @@ Actually, the exact dates that were used isn't clear. The chart in the article s
 Finally, note that you can substitute your own data (different index or stock, different time frame, whatever), but this is probably best used if you have complete data for each calendar year. That is because the calculations drop the n worst/best days by calendar year.
 
 Data is from [Yahoo! Finance](https://finance.yahoo.com/quote/%5EGSPC/history?period1=-631126800&period2=1546326000&interval=1d&filter=history&frequency=1d) as of 1 January 2019, and includes the daily adjusted close of the S&P 500 each day from 1 January 1950 to 31 December 2018.
+![Reproduced Barron's Chart](https://github.com/mayest/Market-Timing/blob/master/Barrons%20Chart.jpg)
