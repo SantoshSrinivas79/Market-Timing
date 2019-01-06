@@ -18,5 +18,7 @@ Finally, note that you can substitute your own data (different index or stock, d
 Data is from [Yahoo! Finance](https://finance.yahoo.com/quote/%5EGSPC/history?period1=-631126800&period2=1546326000&interval=1d&filter=history&frequency=1d) as of 1 January 2019, and includes the daily adjusted close of the S&P 500 each day from 1 January 1950 to 31 December 2018.
 ![Reproduced Barron's Chart](https://github.com/mayest/Market-Timing/blob/master/Barrons%20Chart.jpg)
 
+You can run the Jupyter notebook in your browser without having Python or Jupyter installed on your computer by clicking the Binder button below.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mayest/Market-Timing/master)
 
